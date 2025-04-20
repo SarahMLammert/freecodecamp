@@ -1,0 +1,18 @@
+let adjective = "sleepy";
+let adjective2 = "slippery";
+let noun = "chicken";
+let noun2 = "cow";
+let verb = "swimming";
+let place = "pool";
+let firstStory;
+firstStory = "Once upon a time, there was a(n) " +  adjective + " " + noun + " who loved to eat " + noun2 + "." + " The " + noun + " lived in a " + place + " and had " + adjective2 + " nostrils that blew fire when it was " + verb + ".";
+console.log("First story: " + firstStory);
+adjective = "green";
+adjective2 = "lazy";
+noun = "squirrel";
+noun2 = "pig";
+verb = "running";
+place = "barn";
+let secondStory;
+secondStory = "Once upon a time, there was a(n) " +  adjective + " " + noun + " who loved to eat "+ noun2 + "." + " The " + noun + " lived in a " + place + " and had " + adjective2 + " nostrils that blew fire when it was " + verb + ".";
+console.log("Second story: " + secondStory);
